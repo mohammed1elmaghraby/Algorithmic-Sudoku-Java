@@ -58,4 +58,4 @@ To play the game on your local machine, follow these steps:
 This project is licensed under the MIT License.
 
 
-##Developed with ❤️ by Mohammed Elmaghraby.
+## Developed with ❤️ by Mohammed Elmaghraby.
