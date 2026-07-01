@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import Theme.Colors;
-
+ 
 public class Sudoku{
     private final static int[][] board = {    // 9x9 Sudoku grid representation.
     { 0, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 },
